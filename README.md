@@ -15,6 +15,7 @@ This Contains evaluation of designed LOS by PD and PID Controller
  #### Matching Model with Yasukawa's MMG paper ####
  Yasukawa's MMG Model Image was digitized and compared with designed L7 Model.
  
- 
+ #### Tabular Solution Methos ####
+ Conventional grid world approach with Nomoto one degreee, environment has land, greeen water.,etc 
  
  
