@@ -10,7 +10,7 @@ DQN FFNN version 0.1 - It is having fully designed model (episode terminating cr
 #### LOS Evaluation ####
 This Contains evaluation of designed LOS by PD and PID Controller
   1. PD controller
-  2. PID controller(will be uploaded shortly)
+  2. PID controller version 2.0 (works for all quadrants and all trajectory)
   
  #### Matching Model with Yasukawa's MMG paper ####
  Yasukawa's MMG Model Image was digitized and compared with designed L7 Model.
