@@ -18,7 +18,7 @@ This Contains evaluation of designed LOS by PD and PID Controller
  Yasukawa's MMG Model Image was digitized and compared with designed L7 Model.
  
  #### Policy Gradients ####
- I has Policy Gradient derivation and corresponding code.(reward function can be evaluated by PG for it's optimality).
+ It contains Policy Gradient derivation and corresponding code.(reward function can be evaluated by PG for it's optimality).
  
  
  #### Tabular Solution Methos ####
