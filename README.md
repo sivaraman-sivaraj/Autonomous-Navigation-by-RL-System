@@ -11,8 +11,7 @@ DQN FFNN version 0.6 - changes :  Lastly Updated one. the file NoteBookCode.py i
 
 #### LOS Evaluation ####
 This Contains evaluation of designed LOS by PID Controller
-  1. PID controller version 2.0
-  2. PID controller version 3.0 (works for all quadrants and all trajectory)
+1. PID controller version 3.0 (works for all quadrants and all trajectory)
   
  #### Matching Model with Yasukawa's MMG paper ####
  Yasukawa's MMG Model Image was digitized and compared with designed L7 Model.
