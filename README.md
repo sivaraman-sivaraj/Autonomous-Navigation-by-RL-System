@@ -7,6 +7,8 @@ This folder contains agents(different ship's mathematical models) and it's evalu
 #### Deep Q Networks ####
 It contains DQN algorithm and trained results for Heading and Special Trajectories.
 
+#### Heading Control - 6 Inputs #####
+Codes for Heading Control by DQN algorithm based on 6 inputs(u,v,r,x,y,psi). 
 
 #### LOS Evaluation ####
 This file contains evaluation of designed LOS by PID Controller
