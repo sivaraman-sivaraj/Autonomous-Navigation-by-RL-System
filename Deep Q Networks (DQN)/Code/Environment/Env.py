@@ -176,7 +176,7 @@ class load(Env): # NavigationRL-v0
          """
          screen_width     = 600
          screen_height    = 600
-         self.sr          = (self.grid_size/600) # scaling coefficient
+         self.sr          = 1 #(self.grid_size/600) # scaling coefficient
          self.tp          = [[0,0]]# if you need ship trajectory please make the travelled points at here
          self.rtn         = -self.current_state[5].item()+(np.pi/2)
          if self.viewer is None:
