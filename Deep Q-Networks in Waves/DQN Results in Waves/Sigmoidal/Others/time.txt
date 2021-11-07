@@ -1,3 +1,0 @@
-Total time has taken for Training the process : 1124.5 minutes
-
-w2000 is the best one
