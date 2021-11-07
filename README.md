@@ -20,7 +20,7 @@ Yasukawa's MMG Model Image was digitized and compared with designed L7 Model.
 #### Result Simulator #####
 Codes for generating the output. 
 
-###### Unified Model with Waves #######
+#### Unified Model with Waves ####
 Final code....!
 
 #### Tabular Solution Methos ####
