@@ -4,6 +4,8 @@ This folder contains agents(different ship's mathematical models) and it's evalu
   1. Nomoto Model - one degree (Analytical and Numerical)
   2. Mariner ship and Container Ship
   3. MMG Model ship  (Full scale Model and L7 Model)
+#### Best Trained Weights ####
+calm water, 3.2 meter waves,  6 meter waves
 #### Deep Q Networks ####
 It contains DQN algorithm and trained results for Heading and Special Trajectories.
 
@@ -17,8 +19,11 @@ This file contains evaluation of designed LOS by PID Controller
 #### Matching Model with Yasukawa's MMG paper ####
 Yasukawa's MMG Model Image was digitized and compared with designed L7 Model. 
  
-#### Result Simulator #####
+#### Output Plotter #####
 Codes for generating the output. 
+
+#### Result in Waves #####
+All files with four basic plots.
 
 #### Unified Model with Waves ####
 Final code....!
