@@ -26,7 +26,7 @@ scaled_u              = np.sqrt((7/320)*7.75*7.75)   # Froude Scaling
 rps                   = 12.05                        # revolution per second
 initial_velocity      = scaled_u                     # you can fix it as zero for convienient
 W_Flag                = False
-Head_Wave_Angles      = [-np.pi,-3*np.pi/2,-np.pi/2,-np.pi/4,0.0,np.pi/4,np.pi/2,3*np.pi/2, np.pi]
+Head_Wave_Angles      = [-np.pi,-3*np.pi/4,-np.pi/2,-np.pi/4,np.pi/4,np.pi/2,3*np.pi/4, np.pi]
 
 
 No_Episodes           = 2
