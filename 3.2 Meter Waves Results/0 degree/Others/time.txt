@@ -1,1 +1,0 @@
-Total time has taken for Training the process : 277.9 minutes
